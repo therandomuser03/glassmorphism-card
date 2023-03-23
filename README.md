@@ -6,3 +6,7 @@
 
 An attempt to create a demo of glassmorphism card with the [Vanilla Tilt in JS](https://github.com/micku7zu/vanilla-tilt.js/#vanilla-tiltjs) using ScrollTrigger in HTML, CSS and JavaScript
 
+
+
+### Link for the Vanilla Tilt JS :
+[Click Here](https://micku7zu.github.io/vanilla-tilt.js/)
