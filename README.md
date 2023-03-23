@@ -4,7 +4,7 @@
 ![](https://user-images.githubusercontent.com/94695669/227260290-d372c2e3-14e4-44cc-8924-190eb72f6203.gif)
 
 
-An attempt to create a demo of glassmorphism card with the [Vanilla Tilt in JS](https://github.com/micku7zu/vanilla-tilt.js/#vanilla-tiltjs) using ScrollTrigger in HTML, CSS and JavaScript
+An attempt to create a demo of glassmorphism card using [Vanilla Tilt in JS](https://github.com/micku7zu/vanilla-tilt.js/#vanilla-tiltjs) in HTML, CSS and JavaScript
 
 
 
